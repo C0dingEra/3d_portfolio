@@ -1,0 +1,9 @@
+--legacy-peer-deps --> when you install any older version of react then this package use
+@react-three/fiber
+@react-three/drei
+maath
+react-tilt-->annimation when hovering over a card
+react-vertical-timeline-component
+@emailjs/browser
+framer-motion
+react-router-dom
